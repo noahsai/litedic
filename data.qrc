@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dic</file>
+    </qresource>
+</RCC>

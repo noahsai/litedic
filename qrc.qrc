@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>txtdic</file>
+        <file>txteg</file>
+    </qresource>
+</RCC>
